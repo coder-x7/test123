@@ -20,7 +20,7 @@ app.get('/', (req,res)=>{
 
 
 
-    res.send('This is my first API with updates')
+    res.send('This is my first API with updates with github')
 
 
     
